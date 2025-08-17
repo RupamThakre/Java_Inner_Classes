@@ -20,7 +20,7 @@ public class Test {
         * Instead of creating seperate class, On The Fly -> If I could create the CreditCard class object
         * here it comes Anonymous Inner Class
         *
-        *
+        * - Need to create Object for OneTime use
         * */
         shoppingCart.processPayment(creditCard);
 
